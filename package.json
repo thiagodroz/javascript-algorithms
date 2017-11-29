@@ -1,0 +1,19 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thiagodroz@github.com/thiagodroz/javascript-algorithms.git"
+  },
+  "author": "Thiago Nogueira <thiago.droz@gmail.com> (https://thiagodroz.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagodroz/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/thiagodroz/javascript-algorithms#readme"
+}
