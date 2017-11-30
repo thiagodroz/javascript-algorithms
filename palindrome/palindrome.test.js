@@ -1,6 +1,7 @@
 const palindromeFunctions = [
   require('./palindrome__for'),
-  require('./palindrome__recursive')
+  require('./palindrome__recursive'),
+  require('./palindrome__reverse')
 ];
 
 palindromeFunctions.forEach(palindrome => {
