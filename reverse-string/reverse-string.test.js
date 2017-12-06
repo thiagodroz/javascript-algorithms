@@ -8,7 +8,7 @@ reverseFunctions.forEach(reverse => {
   test('reverse-string function exists', () => {
     expect(reverse).toBeDefined();
   });
-  
+
   test('reverse-string returns the reversed string', () => {
     expect(reverse('pokemon')).toBe('nomekop');
   });

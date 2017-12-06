@@ -6,7 +6,7 @@ reverseFunctions.forEach(reverse => {
   test('reverse-int function exists', () => {
     expect(reverse).toBeDefined();
   });
-  
+
   test('reverse-int returns the reversed integer', () => {
     expect(reverse(1234)).toBe(4321);
   });

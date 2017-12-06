@@ -6,6 +6,8 @@ const depthFirstSearch = (node) => {
   while (node.neighbours.length > 0) {
     depthFirstSearch(node.neighbours.pop());
   }
+
+  return node;
 };
 
 module.exports = depthFirstSearch;

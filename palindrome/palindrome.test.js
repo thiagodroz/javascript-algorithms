@@ -8,7 +8,7 @@ palindromeFunctions.forEach(palindrome => {
   test('palindrome function exists', () => {
     expect(palindrome).toBeDefined();
   });
-  
+
   test('palindrome returns true if the word is a palindrome', () => {
     expect(palindrome('arara')).toBe(true);
   });

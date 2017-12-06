@@ -34,12 +34,12 @@ bfsFunctions.forEach(bfs => {
     let vertex3 = new Vertex(3);
     let vertex4 = new Vertex(4);
     let vertex5 = new Vertex(5);
-    
+
     vertex1.neighbours.push(vertex2);
     vertex1.neighbours.push(vertex4);
     vertex4.neighbours.push(vertex5);
     vertex2.neighbours.push(vertex3);
-    
+
     root = vertex1;
   });
 
