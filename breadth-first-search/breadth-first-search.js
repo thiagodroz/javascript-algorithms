@@ -1,5 +1,3 @@
-const Vertex = require('./bfs-vertex');
-
 const breadthFirstSearch = (root) => {
   let queue = [];
   root.visited = true;
