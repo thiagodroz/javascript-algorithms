@@ -10,11 +10,17 @@ This project was created to practice the development of algorithms using Javascr
 
 ## Algorithms List
 
+  - Anagrams
+    - Using map
+    - Using sort
   - Array chunk
     - Using for
     - Using slice
   - Breadth first search
     - Using queue
+  - Capitalize
+    - Using for
+    - Using slice
   - Depth first search
     - Using stack
     - Using recursion
@@ -32,3 +38,6 @@ This project was created to practice the development of algorithms using Javascr
     - Using for
     - Using recursion
     - Using reverse
+  - Steps
+    - Using for
+    - Using recursion
