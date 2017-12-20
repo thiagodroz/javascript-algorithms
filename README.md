@@ -26,6 +26,9 @@ This project was created to practice the development of algorithms using Javascr
     - Using for
     - Using recursion
     - Using reverse
+  - Pyramid
+    - Using for
+    - Using recursion
   - Reverse int
     - Using reverse
   - Reverse string
