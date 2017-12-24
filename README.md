@@ -67,6 +67,12 @@ This project was created to practice the development of algorithms using Javascr
     Prints an pyramid.
     - Using for
     - Using recursion
+  - Queue
+
+    Class that implements a queue.
+  - Queue from Stack
+
+    Class that implements a queue based on two stacks.
   - Reverse int
 
     Returns the integer reversed.
@@ -81,6 +87,9 @@ This project was created to practice the development of algorithms using Javascr
 
     Returns a spiral matrix.
       - Using for
+  - Stack
+
+    Class that implements a stack.
   - Steps
 
     Prints an stair.
@@ -91,3 +100,6 @@ This project was created to practice the development of algorithms using Javascr
     Returns the number of vowels of the word.
     - Using for
     - Using regexp
+  - Weave
+
+    Combines two queues into one, even if the lengths are different.
