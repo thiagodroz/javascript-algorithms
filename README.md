@@ -51,7 +51,9 @@ This project was created to practice the development of algorithms using Javascr
     of the number.
 
       - Using for
+  - Linked List
 
+    Implementation of a linked list.
   - Max chars
 
     Returns the most common char of a string.
