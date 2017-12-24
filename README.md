@@ -58,6 +58,9 @@ This project was created to practice the development of algorithms using Javascr
 
     Returns the most common char of a string.
     - Using map
+  - Midpoint
+
+    Returns the middle node of a linked list.
   - Palindrome
 
     Returns true if the word is a palindrome.
