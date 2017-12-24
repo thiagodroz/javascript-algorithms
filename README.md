@@ -37,6 +37,12 @@ This project was created to practice the development of algorithms using Javascr
     Traverse a graph exploring as far as possible before backtracking.
     - Using stack
     - Using recursion
+  - Fibonacci
+
+    Returns the nth number of the Fibonacci sequence.
+    - Using for
+    - Using recursion
+    - Using memoization
   - FizzBuzz
 
     Prints all numbers between 1 and n. For multiples of 3, print 'fizz' instead
