@@ -27,6 +27,9 @@ This project was created to practice the development of algorithms using Javascr
 
     Traverse a graph exploring the neighbor nodes first.
     - Using queue
+  - Binary Search Tree
+
+    Implementation of a binary search tree.
   - Capitalize
 
     Capitalize a string.
@@ -54,6 +57,12 @@ This project was created to practice the development of algorithms using Javascr
     of the number.
 
       - Using for
+  - FromLast
+
+    Returns the distance of a node from a linked list to the last node.
+  - Level Width
+
+    Returns the widths of each level of a given tree.
   - Linked List
 
     Implementation of a linked list.
@@ -103,6 +112,9 @@ This project was created to practice the development of algorithms using Javascr
     Prints an stair.
     - Using for
     - Using recursion
+  - Tree
+
+    Implementation of a tree data structure.
   - Vowels
 
     Returns the number of vowels of the word.
