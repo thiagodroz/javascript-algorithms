@@ -32,6 +32,9 @@ This project was created to practice the development of algorithms using Javascr
     Capitalize a string.
     - Using for
     - Using slice
+  - Circular
+
+    Returns true if a linked list is circular
   - Depth first search
 
     Traverse a graph exploring as far as possible before backtracking.
