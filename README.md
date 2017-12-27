@@ -115,6 +115,9 @@ This project was created to practice the development of algorithms using Javascr
   - Tree
 
     Implementation of a tree data structure.
+  - Validate BST
+
+    Returns true if a given tree is a binary search tree.
   - Vowels
 
     Returns the number of vowels of the word.
