@@ -1,5 +1,6 @@
 const fizzBuzzFunctions = [
-  require('./fizz-buzz__for')
+  require('./fizz-buzz__for'),
+  require('./fizz-buzz__array-foreach'),
 ];
 
 fizzBuzzFunctions.forEach(fizzBuzz => {
@@ -32,12 +33,12 @@ fizzBuzzFunctions.forEach(fizzBuzz => {
     expect(console.log.mock.calls[13][0]).toEqual(14);
     expect(console.log.mock.calls[14][0]).toEqual('fizzbuzz');
   });
+});
 
-  beforeEach(() => {
-    jest.spyOn(console, 'log');
-  });
+beforeEach(() => {
+  jest.spyOn(console, 'log');
+});
 
-  afterEach(() => {
-    console.log.mockRestore();
-  });
+afterEach(() => {
+  console.log.mockRestore();
 });

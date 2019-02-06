@@ -43,6 +43,9 @@ This project was created to practice the development of algorithms using Javascr
     Traverse a graph exploring as far as possible before backtracking.
     - Using stack
     - Using recursion
+  - Dynamic Array
+
+    Even though Javascript's arrays are dynamic, it simulates the implementation of dynamic arrays.
   - Fibonacci
 
     Returns the nth number of the Fibonacci sequence.
@@ -57,6 +60,7 @@ This project was created to practice the development of algorithms using Javascr
     of the number.
 
       - Using for
+      - Using Array's forEach method
   - FromLast
 
     Returns the distance of a node from a linked list to the last node.
